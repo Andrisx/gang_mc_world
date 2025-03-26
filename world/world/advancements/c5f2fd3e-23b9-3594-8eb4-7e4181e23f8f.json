@@ -634,7 +634,9 @@
       "minecraft:pillager": "2024-12-25 10:58:35 +0100",
       "minecraft:blaze": "2025-01-18 20:26:29 +0100",
       "minecraft:skeleton": "2024-12-23 11:16:40 +0100",
+      "minecraft:zombie_pigman": "2025-02-03 18:23:48 +0100",
       "minecraft:ghast": "2025-01-11 20:38:07 +0100",
+      "minecraft:magma_cube": "2025-02-03 18:08:48 +0100",
       "minecraft:spider": "2024-12-23 16:17:32 +0100",
       "minecraft:creeper": "2024-12-23 15:56:14 +0100",
       "minecraft:phantom": "2025-01-18 19:16:40 +0100",
@@ -996,6 +998,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-23 16:56:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 17:41:32 +0100"
     },
     "done": true
   },
@@ -2788,6 +2796,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2024-12-30 20:35:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:41:32 +0100"
     },
     "done": true
   },
