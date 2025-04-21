@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-04-20 12:24:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-31 18:06:13 +0100"
@@ -641,7 +647,9 @@
       "minecraft:blaze": "2025-01-18 20:26:29 +0100",
       "minecraft:skeleton": "2024-12-23 11:16:40 +0100",
       "minecraft:zombie_pigman": "2025-02-03 18:23:48 +0100",
+      "minecraft:ravager": "2025-04-20 12:17:08 +0200",
       "minecraft:ghast": "2025-01-11 20:38:07 +0100",
+      "minecraft:vindicator": "2025-04-20 12:15:13 +0200",
       "minecraft:magma_cube": "2025-02-03 18:08:48 +0100",
       "minecraft:spider": "2024-12-23 16:17:32 +0100",
       "minecraft:creeper": "2024-12-23 15:56:14 +0100",
@@ -649,7 +657,8 @@
       "minecraft:wither_skeleton": "2025-01-18 20:26:45 +0100",
       "minecraft:enderman": "2024-12-24 15:56:16 +0100",
       "minecraft:silverfish": "2024-12-25 10:25:16 +0100",
-      "minecraft:zombie": "2024-12-23 11:20:30 +0100"
+      "minecraft:zombie": "2024-12-23 11:20:30 +0100",
+      "minecraft:drowned": "2025-04-20 12:08:39 +0200"
     },
     "done": false
   },
@@ -662,6 +671,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-29 20:34:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 11:43:01 +0200"
     },
     "done": true
   },
@@ -728,6 +743,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2024-12-23 18:07:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
     },
     "done": true
   },
@@ -1151,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-04-20 11:43:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 10:57:52 +0100"
@@ -1166,6 +1193,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2024-12-23 16:17:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
     },
     "done": true
   },
@@ -1705,6 +1738,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-20 12:17:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 16:09:33 +0100"
@@ -1771,6 +1810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-04-20 21:16:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2024-12-23 11:31:27 +0100"
@@ -1792,6 +1837,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-25 14:34:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2025-04-20 12:24:26 +0200"
     },
     "done": true
   },
@@ -1987,6 +2038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-04-20 21:16:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-23 16:18:39 +0100"
@@ -2100,6 +2157,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-23 10:54:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
     },
     "done": true
   },
@@ -2385,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-23 18:43:19 +0100"
@@ -2448,6 +2517,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-25 14:34:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
     },
     "done": true
   },
@@ -2601,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-04-20 21:16:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 18:42:00 +0100"
@@ -2736,6 +2817,12 @@
   "minecraft:recipes/misc/lapis_from_blasting": {
     "criteria": {
       "has_lapis_ore": "2024-12-30 09:38:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
     },
     "done": true
   },
@@ -3105,9 +3192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-20 21:16:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 10:56:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2025-04-20 20:39:48 +0200"
     },
     "done": true
   },
